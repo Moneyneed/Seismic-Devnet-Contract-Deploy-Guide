@@ -1,4 +1,4 @@
-# Seismic-Devnet-Contract-Deploy-Guide
+# Seismic-Devnet-Contract-Deploy-Guide ( ZERO TO HERO )
 Guide How to Deploy Seismic Devnet Contract 
 
 
@@ -96,9 +96,6 @@ bash script/transact.sh
 
 Done ✅
 
-👉 Join TG for more Updates: https://telegram.me/cryptogg
 
-If U have any issue then open a issue on this repo or Dm me on TG~
-
-Thank U❤️
+ZERO TO HERO
 
